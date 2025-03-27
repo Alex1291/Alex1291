@@ -15,6 +15,7 @@
 </div>
 
 <p>
+  ![Static Badge](https://img.shields.io/badge/React-61DBFB?logo=react&logoColor=white)
   
 </p>
 
