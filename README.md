@@ -11,5 +11,25 @@
 ![1719132024388](https://github.com/user-attachments/assets/fceef9f4-a86b-4b2d-a7bb-4b00ba484576)
 
 <div align="center">
-  <h2>Tech Stack</h2>
+  <h2>Experienced in</h2>
 </div>
+
+<p>
+  
+</p>
+
+<div align="center">
+  <h2>Version Control and Development Tools</h2>
+</div>
+
+<p>
+  
+</p>
+
+<div align="center">
+  <h2>Operating System Used</h2>
+</div>
+
+<p>
+  
+</p>
