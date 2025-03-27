@@ -1,6 +1,6 @@
 
-<div style = " width: 100%; text-align:center;">
-  <h2>👋 Hi, I’m @Alex1291</h2>
+<div style = "width: 100%;">
+  <h2 style = "text-align:center;">👋 Hi, I’m @Alex1291</h2>
 </div>
 
 - 👀 I’m interested in providing solutions for problems faced
