@@ -1,5 +1,5 @@
 
-<div style = "text-align:center;">
+<div style = " width: 100%; text-align:center;">
   <h2>👋 Hi, I’m @Alex1291</h2>
 </div>
 
