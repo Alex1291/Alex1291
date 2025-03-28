@@ -28,6 +28,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/MariaDB-00758F?logo=MariaDB&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%23-9179E4?logo=dotnet&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-306998?logo=Python&logoColor=yellow">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MudBlazor-4527A0?logo=blazor&logoColor=white">
 </p>
 
 <div align="center">
